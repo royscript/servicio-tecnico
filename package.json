@@ -1,0 +1,27 @@
+{
+  "name": "servicio-tecnico",
+  "version": "1.0.0",
+  "description": "Aplicacion para servicio tecnico",
+  "main": "index.js",
+  "scripts": {
+    "start" : "kill -9 $(ps aux | grep index | grep -v grep | awk '{print $2}') ; node index.js >>./log.log 2>&1 &",
+    "test": "node index.js >>./log.log 2>&1 &",
+    "ver-log": "tail -400f ./log.log",
+    "stop": "kill -9 $(ps aux | grep index | grep -v grep | awk '{print $2}')",
+    "tareas-server": "jobs -l",
+    "ver-puertos": "netstat -tulpn"
+  },
+  "author": "Roy Standen - Edson Carrasco",
+  "license": "ISC",
+  "dependencies": {
+    "await-spawn": "^4.0.2",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}

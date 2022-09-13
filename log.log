@@ -1,0 +1,465 @@
+node:internal/modules/cjs/loader:959
+  throw err;
+  ^
+
+Error: Cannot find module 'drivelist'
+Require stack:
+- /home/roy/servicio-tecnico/v1/modelo/SistemaOperativo.js
+- /home/roy/servicio-tecnico/v1/vista/index.js
+- /home/roy/servicio-tecnico/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/v1/modelo/SistemaOperativo.js:2:19)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/roy/servicio-tecnico/v1/modelo/SistemaOperativo.js',
+    '/home/roy/servicio-tecnico/v1/vista/index.js',
+    '/home/roy/servicio-tecnico/index.js'
+  ]
+}
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+stdout: total 96
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  1248 sep  8 02:19 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+stdout: total 96
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  1931 sep  8 02:25 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+Servidor Node JS hola churrasco 3000
+stdout: total 96
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  2429 sep  8 02:28 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+stdout: total 96
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  2890 sep  8 02:28 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+Servidor Node JS hola churrasco 3000
+stdout: total 96
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  3388 sep  8 02:29 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+stdout: total 96
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  3849 sep  8 02:29 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+stdout: total 100
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  4310 sep  8 02:29 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+stdout: total 100
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  4772 sep  8 02:29 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+Servidor Node JS hola churrasco 3000
+stdout: total 100
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  5271 sep  8 02:33 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+stdout: total 100
+drwxrwxr-x  4 roy roy  4096 sep  8 02:12 .
+drwxr-x--- 11 roy roy  4096 sep  8 01:29 ..
+-rw-rw-r--  1 roy roy    14 sep  7 02:25 .env
+-rw-rw-r--  1 roy roy   771 sep  7 02:34 index.js
+-rw-rw-r--  1 roy roy  5733 sep  8 02:33 log.log
+drwxrwxr-x 92 roy roy  4096 sep  8 02:14 node_modules
+-rw-rw-r--  1 roy roy   637 sep  8 01:52 package.json
+-rw-rw-r--  1 roy roy 65508 sep  7 01:29 package-lock.json
+drwxrwxr-x  6 roy roy  4096 sep  7 23:56 v1
+
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+{
+  error: Error: spawnSync ls -la ENOENT
+      at Object.spawnSync (node:internal/child_process:1112:20)
+      at spawnSync (node:child_process:827:24)
+      at files (/home/roy/servicio-tecnico/v1/modelo/SistemaOperativo.js:43:24)
+      at SistemaOperativo.ejecutarBash (/home/roy/servicio-tecnico/v1/modelo/SistemaOperativo.js:47:16)
+      at /home/roy/servicio-tecnico/v1/vista/index.js:34:29
+      at Layer.handle [as handle_request] (/home/roy/servicio-tecnico/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/roy/servicio-tecnico/node_modules/express/lib/router/route.js:144:13)
+      at Route.dispatch (/home/roy/servicio-tecnico/node_modules/express/lib/router/route.js:114:3)
+      at Layer.handle [as handle_request] (/home/roy/servicio-tecnico/node_modules/express/lib/router/layer.js:95:5)
+      at /home/roy/servicio-tecnico/node_modules/express/lib/router/index.js:284:15 {
+    errno: -2,
+    code: 'ENOENT',
+    syscall: 'spawnSync ls -la',
+    path: 'ls -la',
+    spawnargs: [ undefined, undefined ]
+  },
+  status: null,
+  signal: null,
+  output: null,
+  pid: 9263,
+  stdout: null,
+  stderr: null
+}
+Servidor Node JS hola churrasco 3000
+{
+  error: Error: spawnSync ls -la ENOENT
+      at Object.spawnSync (node:internal/child_process:1112:20)
+      at spawnSync (node:child_process:827:24)
+      at files (/home/roy/servicio-tecnico/v1/modelo/SistemaOperativo.js:43:30)
+      at SistemaOperativo.ejecutarBash (/home/roy/servicio-tecnico/v1/modelo/SistemaOperativo.js:47:16)
+      at /home/roy/servicio-tecnico/v1/vista/index.js:34:29
+      at Layer.handle [as handle_request] (/home/roy/servicio-tecnico/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/roy/servicio-tecnico/node_modules/express/lib/router/route.js:144:13)
+      at Route.dispatch (/home/roy/servicio-tecnico/node_modules/express/lib/router/route.js:114:3)
+      at Layer.handle [as handle_request] (/home/roy/servicio-tecnico/node_modules/express/lib/router/layer.js:95:5)
+      at /home/roy/servicio-tecnico/node_modules/express/lib/router/index.js:284:15 {
+    errno: -2,
+    code: 'ENOENT',
+    syscall: 'spawnSync ls -la',
+    path: 'ls -la',
+    spawnargs: [ undefined, undefined ]
+  },
+  status: null,
+  signal: null,
+  output: null,
+  pid: 9366,
+  stdout: null,
+  stderr: null
+}
+Servidor Node JS hola churrasco 3000
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (/home/roy/servicio-tecnico/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/index.js:20:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1459:8)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+TypeError: this.mysql.consulta is not a function
+    at Persona.mostrarPersona (/home/roy/servicio-tecnico/v1/modelo/Persona.js:18:27)
+    at /home/roy/servicio-tecnico/v1/controlador/persona.js:11:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Servidor Node JS hola churrasco 3000
+Error: getaddrinfo ENOTFOUND localhost:3036
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    --------------------
+    at Protocol._enqueue (/home/roy/servicio-tecnico/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/home/roy/servicio-tecnico/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/home/roy/servicio-tecnico/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/home/roy/servicio-tecnico/node_modules/mysql/lib/Pool.js:48:16)
+    at Pool.query (/home/roy/servicio-tecnico/node_modules/mysql/lib/Pool.js:202:8)
+    at /home/roy/servicio-tecnico/v1/conexiones/mysql.js:15:27
+    at new Promise (<anonymous>)
+    at Mysql.consulta (/home/roy/servicio-tecnico/v1/conexiones/mysql.js:14:16)
+    at Persona.mostrarPersona (/home/roy/servicio-tecnico/v1/modelo/Persona.js:18:27)
+    at /home/roy/servicio-tecnico/v1/controlador/persona.js:11:35 {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'localhost:3036',
+  fatal: true
+}
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (/home/roy/servicio-tecnico/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/index.js:23:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1459:8)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Servidor Node JS hola churrasco 3000
+Error: getaddrinfo ENOTFOUND 127.0.0.1:3036
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    --------------------
+    at Protocol._enqueue (/home/roy/servicio-tecnico/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/home/roy/servicio-tecnico/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/home/roy/servicio-tecnico/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/home/roy/servicio-tecnico/node_modules/mysql/lib/Pool.js:48:16)
+    at Pool.query (/home/roy/servicio-tecnico/node_modules/mysql/lib/Pool.js:202:8)
+    at /home/roy/servicio-tecnico/v1/conexiones/mysql.js:15:27
+    at new Promise (<anonymous>)
+    at Mysql.consulta (/home/roy/servicio-tecnico/v1/conexiones/mysql.js:14:16)
+    at Persona.mostrarPersona (/home/roy/servicio-tecnico/v1/modelo/Persona.js:18:27)
+    at /home/roy/servicio-tecnico/v1/controlador/persona.js:11:35 {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '127.0.0.1:3036',
+  fatal: true
+}
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+/home/roy/servicio-tecnico/v1/modelo/Persona.js:6
+        this.esquema = this.mongo.model('Usuario', new this.mongo.Schema({
+                                                   ^
+
+TypeError: this.mongo.Schema is not a constructor
+    at new Persona (/home/roy/servicio-tecnico/v1/modelo/Persona.js:6:52)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/v1/controlador/persona.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/index.js:10:17)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/roy/servicio-tecnico/v1/modelo/Persona.js:6
+        this.esquema = this.mongo.model('Usuario', new this.mongo.Schema({
+                                                   ^
+
+TypeError: this.mongo.Schema is not a constructor
+    at new Persona (/home/roy/servicio-tecnico/v1/modelo/Persona.js:6:52)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/v1/controlador/persona.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/index.js:10:17)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (/home/roy/servicio-tecnico/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/index.js:25:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1459:8)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Error: Boleta validation failed: numeroDeBoleta: Cast to Number failed for value "[object Promise]1" (type string) at path "numeroDeBoleta"
+    at ValidationError.inspect (/home/roy/servicio-tecnico/node_modules/mongoose/lib/error/validation.js:49:26)
+    at formatValue (node:internal/util/inspect:790:19)
+    at inspect (node:internal/util/inspect:350:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2241:40)
+    at formatWithOptions (node:internal/util/inspect:2103:10)
+    at console.value (node:internal/console/constructor:339:14)
+    at console.log (node:internal/console/constructor:376:61)
+    at /home/roy/servicio-tecnico/v1/controlador/boleta.js:71:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  errors: {
+    numeroDeBoleta: CastError: Cast to Number failed for value "[object Promise]1" (type string) at path "numeroDeBoleta"
+        at SchemaNumber.cast (/home/roy/servicio-tecnico/node_modules/mongoose/lib/schema/number.js:378:11)
+        at SchemaNumber.SchemaType.applySetters (/home/roy/servicio-tecnico/node_modules/mongoose/lib/schematype.js:1201:12)
+        at model.$set (/home/roy/servicio-tecnico/node_modules/mongoose/lib/document.js:1367:22)
+        at model.$set (/home/roy/servicio-tecnico/node_modules/mongoose/lib/document.js:1092:16)
+        at model.Document (/home/roy/servicio-tecnico/node_modules/mongoose/lib/document.js:166:12)
+        at model.Model (/home/roy/servicio-tecnico/node_modules/mongoose/lib/model.js:119:12)
+        at new model (/home/roy/servicio-tecnico/node_modules/mongoose/lib/model.js:4999:15)
+        at /home/roy/servicio-tecnico/node_modules/mongoose/lib/model.js:3160:22
+        at /home/roy/servicio-tecnico/node_modules/mongoose/lib/model.js:3195:7
+        at Array.forEach (<anonymous>) {
+      stringValue: '"[object Promise]1"',
+      messageFormat: undefined,
+      kind: 'Number',
+      value: '[object Promise]1',
+      path: 'numeroDeBoleta',
+      reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+      
+        assert.ok(!isNaN(val))
+      
+          at castNumber (/home/roy/servicio-tecnico/node_modules/mongoose/lib/cast/number.js:27:10)
+          at SchemaNumber.cast (/home/roy/servicio-tecnico/node_modules/mongoose/lib/schema/number.js:376:12)
+          at SchemaNumber.SchemaType.applySetters (/home/roy/servicio-tecnico/node_modules/mongoose/lib/schematype.js:1201:12)
+          at model.$set (/home/roy/servicio-tecnico/node_modules/mongoose/lib/document.js:1367:22)
+          at model.$set (/home/roy/servicio-tecnico/node_modules/mongoose/lib/document.js:1092:16)
+          at model.Document (/home/roy/servicio-tecnico/node_modules/mongoose/lib/document.js:166:12)
+          at model.Model (/home/roy/servicio-tecnico/node_modules/mongoose/lib/model.js:119:12)
+          at new model (/home/roy/servicio-tecnico/node_modules/mongoose/lib/model.js:4999:15)
+          at /home/roy/servicio-tecnico/node_modules/mongoose/lib/model.js:3160:22
+          at /home/roy/servicio-tecnico/node_modules/mongoose/lib/model.js:3195:7 {
+        generatedMessage: true,
+        code: 'ERR_ASSERTION',
+        actual: false,
+        expected: true,
+        operator: '=='
+      },
+      valueType: 'string'
+    }
+  },
+  _message: 'Boleta validation failed'
+}
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+/home/roy/servicio-tecnico/v1/modelo/Persona.js:6
+        this.esquema = this.mongo.model('Usuario', new this.mongo.Schema({
+                                                   ^
+
+TypeError: this.mongo.Schema is not a constructor
+    at new Persona (/home/roy/servicio-tecnico/v1/modelo/Persona.js:6:52)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/v1/controlador/persona.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/index.js:10:17)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/roy/servicio-tecnico/v1/modelo/Boleta.js:5
+        this.mongo = this.mongo();
+                          ^
+
+TypeError: this.mongo is not a function
+    at new Boleta (/home/roy/servicio-tecnico/v1/modelo/Boleta.js:5:27)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/v1/controlador/boleta.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/roy/servicio-tecnico/index.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
+Servidor Node JS hola churrasco 3000
